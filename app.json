@@ -1,0 +1,12 @@
+{
+  "name": "ts-standart",
+  "displayName": "ts-standart",
+  "expo": {
+    "name": "ts-standart",
+    "slug": "ts-standart",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
